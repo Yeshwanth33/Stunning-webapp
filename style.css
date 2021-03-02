@@ -1,0 +1,116 @@
+#top-bar{
+				width:100%;
+				height:100;
+				}
+				.top {
+
+    
+				  list-style-type: none;
+
+				  margin-left:300px;
+				  margin-top: -40px;
+
+				}
+
+				li {
+					display: inline;
+					padding:30px;
+				}
+				.logo{
+					width:130px;
+					height:50px;
+					margin-left: 30px;
+				}
+
+				.your-account{
+	
+					margin-left: -600px;
+					background:  #ffb3cc;
+					border:none;
+					border-radius: 20%;
+					color:#0052cc;
+					height:40px;
+					width:100px;
+					font-family: 'Poppins', sans-serif;
+
+				}
+				.link1:active {
+				  text-decoration: underline ;
+				  color:#000000;
+				}
+				.link2:link {
+				  text-decoration: none;
+				  color: #b3b3b3;
+				}
+				.cont h1{
+                margin-left:60px;
+                font-size: 50px;
+                font-family: 'Poppins', sans-serif;
+                margin-top:-10px;
+                line-height: 1.25;
+            }
+            .cap{
+                font-family: 'Poppins', sans-serif;
+                margin-left: 60px;
+            }
+            .fle{
+                margin-left:50px;
+                display:inline;
+            }
+            .new-account{
+                background:  #002699;
+                border:none;
+                color:white;
+                height:40px;
+                width:100px;
+                font-family: 'Poppins', sans-serif;
+                border-radius: 25%;
+
+            }
+            .arrow-up{
+           
+                height:40px;
+                width:50px;
+                margin-top: 20px;
+
+            }
+            .arrow-down{
+                height:40px;
+                width:50px;
+
+            }
+            .content{
+                height:100px;
+
+            }
+
+                 .content li {
+                  display: inline;
+                  padding:10px;
+                }
+             .content1{
+             	margin-left: 70px;
+             }
+            section{
+                display:flex;
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+                width:350px;
+            }
+            section img{
+                width:40px;
+                height:40px;
+            }
+            section h4{
+                padding-left: 30px;
+                color:black;
+            }
+            section p{
+            	color: #a6a6a6;
+            }
+           
+           .landing{
+           	margin-left:470px;
+           	margin-top: -615px;
+           }
